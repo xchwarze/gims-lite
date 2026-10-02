@@ -1,0 +1,25 @@
+GIMS - Proprietary Software Notice
+
+Copyright (c) 2026 DSR! <xchwarze@gmail.com>. All rights reserved.
+
+This project is private. It is not open-source software and no license is
+granted by default. The source code, binaries, documentation and any other
+material in this repository may not be used, copied, modified, merged,
+published, distributed, sublicensed or sold without the prior written
+permission of the developer.
+
+Any use of GIMS is to be licensed by the developer, under terms agreed
+individually. To request a license, contact:
+
+    DSR! <xchwarze@gmail.com>
+
+Third-party components bundled in released binaries (sv-ttk, tkinterdnd2,
+darkdetect, pywinstyles, Tcl/Tk, CPython, the PyInstaller bootloader and
+others) remain under their own licenses. Their notices are listed in
+docs/THIRD-PARTY-NOTICES.md and are not affected by this notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
